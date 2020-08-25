@@ -1,2 +1,5 @@
 # Analysing-leading-cause-of-deaths-
 Investigate leading causes of deaths based on drug usage and violation of crimes. 
+
+
+The main aim of the project was to find four parallel data sets on a specific domain and performing exploratory data analysis. Insights produced from this process are visualized using different plots. After thorough research, we had summarized the root cause of deaths due to factors like shooting incidents, drug use, criminal courts and other leading causes of deaths in the United States of America. Also, we estimated the death rates as per factors like gender, race, targeted locations, and boroughs. The highest number of deaths based on the factors above belong to the race of White-Hispanic whereas the deaths of Black- Hispanic were low. The leading cause of deaths due to drug consumption with overdose of cocaine were majority Males. Location-wise Staten Island has the least number of deaths based on shooting incidents, drug use, and criminal courts. Thus, the data sets complement each other, and key insights were drawn to investigate death rates.
